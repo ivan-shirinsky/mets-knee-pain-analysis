@@ -9,7 +9,6 @@ This repository contains the analytical code used for cross-sectional and longit
 ## Data availability
 
 The data used in this study are not publicly available due to institutional regulations governing access to individual-level data.
-Access to de-identified data may be considered upon reasonable request to the corresponding author.
 
 ## Expected data structure
 
