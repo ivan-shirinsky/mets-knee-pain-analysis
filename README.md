@@ -26,7 +26,7 @@ The repository includes code for the following analytical steps:
 9. Comparison of responders vs non-responders — Supplementary Table S3  
 10. Predictors of follow-up participation and IPW models — Supplementary Table S4  
 11. IPW-based sensitivity analyses — Supplementary Table S5
-12. BMI-adjusted sensitivity analyses - Supplementary Table S5
+12. BMI-adjusted sensitivity analyses - Supplementary Table S6
 13. Sensitivity analysis with truncated IPW weights (1–99%)  
 
     
