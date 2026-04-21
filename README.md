@@ -13,22 +13,26 @@ The analysis includes both cross-sectional and longitudinal models, with a focus
 
 ## Analytical scope
 
-The repository includes code for:
+The repository includes code for the following analytical steps:
 
-- Logistic regression models  
-- Cross-sectional analyses  
-- Longitudinal analyses (baseline → follow-up)  
-- Sex-stratified analyses  
-- Interaction testing (cMetS × sex)  
-- Inverse probability weighting (IPW) to address non-response bias  
-- Sensitivity analyses:
-  - BMI-adjusted models  
-  - Truncated IPW weights  
+1. Initialization of the analysis session  
+2. Determination of visit dates  
+3. Definition of knee pain phenotypes (broad vs narrow)  
+4. Baseline characteristics (Table 1)  
+5. Main longitudinal analysis of knee pain (Table 2)  
+6. Main cross-sectional analysis at follow-up (Table 3)  
+7. Longitudinal models (full set) — Supplementary Table S1  
+8. Longitudinal models of individual components — Supplementary Table S2  
+9. Comparison of responders vs non-responders — Supplementary Table S3  
+10. Predictors of follow-up participation and IPW models — Supplementary Table S4  
+11. IPW-based sensitivity analyses — Supplementary Table S5
+12. BMI-adjusted sensitivity analyses - Supplementary Table S5
+13. Sensitivity analysis with truncated IPW weights (1–99%)  
 
+    
 ## Repository structure
 
 - `analysis/` — R scripts for statistical analysis  
-- `docs/` — study notes and protocol (optional)  
 
 ## Data availability
 
