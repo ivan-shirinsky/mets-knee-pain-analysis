@@ -81,7 +81,7 @@ The code reflects the original analytical workflow used in the study. Full repro
 
 ```r
 source("analysis/main_analysis.R")
-
+```
 
 ## Purpose
 This repository is intended to provide transparency of the analytical workflow and to document the computational component of the study.
