@@ -4,7 +4,6 @@ This repository contains the analytical code used for cross-sectional and longit
 
 ## Contents
 
-* Org-mode (Babel) workflow
 * R scripts for statistical analysis
 
 ## Data availability
