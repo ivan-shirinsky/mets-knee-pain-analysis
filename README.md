@@ -64,6 +64,7 @@ df_analysis <- data.frame(
   sex = sample(c("male", "female"), 10, replace = TRUE),
   age_f1 = runif(10, 25, 45)
 )
+```
 
 This example is provided for illustration only and does not reproduce the study results.
 
